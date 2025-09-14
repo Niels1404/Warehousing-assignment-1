@@ -10,3 +10,5 @@ from ReadFiles import SalesData, ReserveCartons, ReserveCases, ActiveCartons, Ac
 # Hiermee kunnen we volgens mij de activity profiles wel invullen, behalve de heatmap, die we misschien beter kunnen skippen.
 # Dan resteren alleen de KPIs nog, waarvan ik zo snel niet weet of dat veel werk is of niet.
 
+
+
