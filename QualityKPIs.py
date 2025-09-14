@@ -2,9 +2,6 @@ import pandas as pd
 from ReadFiles import SalesData
 import matplotlib.pyplot as plt
 import seaborn as sns
-
-#Stockout rate When the ordqty > shpqty in the sales dataframe a stockout occurs 
-
 # We can calculate the outbound logistics volume used by assuming that each order is sent on the day it is created
 # We can calculate turnover in the same way.
 
